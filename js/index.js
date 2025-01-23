@@ -2,3 +2,4 @@
 // that are not declared
 "use strict"
 
+console.log(1+1);
